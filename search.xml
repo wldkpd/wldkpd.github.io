@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>ctf做题集</title>
+      <link href="2021/04/14/ctf%E5%81%9A%E9%A2%98%E9%9B%86/"/>
+      <url>2021/04/14/ctf%E5%81%9A%E9%A2%98%E9%9B%86/</url>
+      
+        <content type="html"><![CDATA[<h1 id="xctf"><a href="#xctf" class="headerlink" title="xctf"></a>xctf</h1><h2 id="1：Crtpto"><a href="#1：Crtpto" class="headerlink" title="1：Crtpto"></a>1：Crtpto</h2><h3 id="第一题：base64"><a href="#第一题：base64" class="headerlink" title="第一题：base64"></a>第一题：base64</h3><p>打开题目 下载附件<br>下载完附件就打开<br><img src="https://note.youdao.com/yws/public/resource/7ef66b8168e74b97ee5e6f9defe01525/xmlnote/12E94C1EE7CB4CBBA6BCC0BDA694E4EC/152"><br>看标题：base64<br>放进解码工具里<br>（我用的一个解码网站<br><a href="http://ctf.ssleye.com/?tdsourcetag=s_pcqq_aiomsg%EF%BC%89">http://ctf.ssleye.com/?tdsourcetag=s_pcqq_aiomsg）</a><br><img src="https://note.youdao.com/yws/public/resource/7ef66b8168e74b97ee5e6f9defe01525/xmlnote/7DDECF0D30B14244B909101F5DB4E2BC/156"></p><h3 id="ok-解决"><a href="#ok-解决" class="headerlink" title="ok 解决"></a>ok 解决</h3><h3 id="第二题：Caesar"><a href="#第二题：Caesar" class="headerlink" title="第二题：Caesar"></a>第二题：Caesar</h3><p>题目叫凯撒，很经典的加密方式<br>用工具就行了<br><img src="https://note.youdao.com/yws/public/resource/7ef66b8168e74b97ee5e6f9defe01525/xmlnote/F24CD4B336AC48BB81835441C97DB1AA/158"><br>不要问位移多少，问就是泪</p><h3 id="ok"><a href="#ok" class="headerlink" title="ok"></a>ok</h3><h3 id="第三题：Morse"><a href="#第三题：Morse" class="headerlink" title="第三题：Morse"></a>第三题：Morse</h3><p>莫尔斯 也很经典<br>一样的带入工具<br>就不放图了</p><h3 id="第四题：幂数加密"><a href="#第四题：幂数加密" class="headerlink" title="第四题：幂数加密"></a>第四题：幂数加密</h3><p>直接上链接<br><a href="https://www.yuque.com/mke2fs/qpkm6i/xvfdxk">https://www.yuque.com/mke2fs/qpkm6i/xvfdxk</a></p><h3 id="第五题：Railfence"><a href="#第五题：Railfence" class="headerlink" title="第五题：Railfence"></a>第五题：Railfence</h3><p>介绍一看，欸 关键字 “栅栏” “5”<br>得 瞬间思路就来了，用加密工具<br>直接得答案，但是有些栅栏解密工具解出来的还是错的，所以要重新找工具<br>链接：<a href="http://www.atoolbox.net/Tool.php?Id=777">http://www.atoolbox.net/Tool.php?Id=777</a></p><h3 id="第六题：不仅仅是Morse"><a href="#第六题：不仅仅是Morse" class="headerlink" title="第六题：不仅仅是Morse"></a>第六题：不仅仅是Morse</h3><p>直接上mouse工具，<a href="https://www.qtool.net/morsecode">https://www.qtool.net/morsecode</a><br><img src="https://note.youdao.com/yws/public/resource/7ef66b8168e74b97ee5e6f9defe01525/xmlnote/ED21CC0371FD4BA69D16AD39BA1BCC47/160"><br>emmmmmm,这abababab的也不可能是flag<br>反手百度，哦哦哦，培根密码<br>带入培根密码工具，直接解决</p><h3 id="第七题："><a href="#第七题：" class="headerlink" title="第七题："></a>第七题：</h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="2021/01/11/hello-world/"/>
       <url>2021/01/11/hello-world/</url>
